@@ -1,2 +1,2 @@
-# threejs-bubble-party
+# Bubble Party
  
